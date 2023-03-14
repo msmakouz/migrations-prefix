@@ -1,4 +1,4 @@
-**# This is a test repository
+# This is a test repository
 
 Needed for testing prefixes in migrations.
 
